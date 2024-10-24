@@ -4,6 +4,14 @@ This repository contains the data and code for the article "Development of an El
 Information about the paper is in the next link: https://www.mdpi.com/1424-8220/24/21/6787
 
 If you want to cite our work, please use any of the following formats:
+MDPI and ACS Style
+Guzmán-Quezada, E.; Lomeli-Garcia, S.; Velazco-Garcia, J.; Jonguitud-Ceballos, M.; Vega-Martinez, A.; Ojeda-Galvan, J.; Alvarado-Rodríguez, F.J.; Reyes-Jiménez, F. Development of an Electromyography Signal Acquisition Prototype and Statistical Validation Against a Commercial Device. Sensors 2024, 24, 6787. https://doi.org/10.3390/s24216787
+
+AMA Style
+Guzmán-Quezada E, Lomeli-Garcia S, Velazco-Garcia J, Jonguitud-Ceballos M, Vega-Martinez A, Ojeda-Galvan J, Alvarado-Rodríguez FJ, Reyes-Jiménez F. Development of an Electromyography Signal Acquisition Prototype and Statistical Validation Against a Commercial Device. Sensors. 2024; 24(21):6787. https://doi.org/10.3390/s24216787
+
+Chicago/Turabian Style
+Guzmán-Quezada, Erick, Santiago Lomeli-Garcia, Jorge Velazco-Garcia, Maby Jonguitud-Ceballos, Adriana Vega-Martinez, Juan Ojeda-Galvan, Francisco J. Alvarado-Rodríguez, and Fernanda Reyes-Jiménez. 2024. "Development of an Electromyography Signal Acquisition Prototype and Statistical Validation Against a Commercial Device" Sensors 24, no. 21: 6787. https://doi.org/10.3390/s24216787
 
 MDPI and ACS Style
 Guzmán-Quezada, E.; Mancilla-Jiménez, C.; Rosas-Agraz, F.; Romo-Vázquez, R.; Vélez-Pérez, H. Embedded Machine Learning System for Muscle Patterns Detection in a Patient with Shoulder Disarticulation. Sensors 2024, 24, 3264. https://doi.org/10.3390/s24113264
