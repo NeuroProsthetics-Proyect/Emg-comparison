@@ -3,6 +3,16 @@ This repository contains the data and code for the article "Development of an El
 
 Information about the paper is in the next link: https://www.mdpi.com/1424-8220/24/21/6787
 
+If you want to cite our work, please use any of the following formats:
+
+MDPI and ACS Style
+Guzmán-Quezada, E.; Mancilla-Jiménez, C.; Rosas-Agraz, F.; Romo-Vázquez, R.; Vélez-Pérez, H. Embedded Machine Learning System for Muscle Patterns Detection in a Patient with Shoulder Disarticulation. Sensors 2024, 24, 3264. https://doi.org/10.3390/s24113264
+
+AMA Style
+Guzmán-Quezada E, Mancilla-Jiménez C, Rosas-Agraz F, Romo-Vázquez R, Vélez-Pérez H. Embedded Machine Learning System for Muscle Patterns Detection in a Patient with Shoulder Disarticulation. Sensors. 2024; 24(11):3264. https://doi.org/10.3390/s24113264
+
+Chicago/Turabian Style
+Guzmán-Quezada, Erick, Claudia Mancilla-Jiménez, Fernanda Rosas-Agraz, Rebeca Romo-Vázquez, and Hugo Vélez-Pérez. 2024. "Embedded Machine Learning System for Muscle Patterns Detection in a Patient with Shoulder Disarticulation" Sensors 24, no. 11: 3264. https://doi.org/10.3390/s24113264
 
 Repository Contents
 Raw Data: EMG signal files acquired from 18 volunteers, using both the EMG prototype and the professional Biopac® equipment.
